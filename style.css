@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+}
+#score{
+    font-size: 40px;
+    margin-left: 10px;
+    float: left;
+}
+
+#timer{
+    font-size: 40px;
+    margin-right: 150px;
+    float: right;
+}
+
+#draw{
+    font-size: 30px;
+    color: darkgreen;
+    font: bolder;
+}
+
+h1{
+    background-color: lightgoldenrodyellow;
+    color: lightslategray;
+}
+
+.close{
+    margin-right: 150px;
+    float: right;
+}
